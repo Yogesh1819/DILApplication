@@ -1,0 +1,64 @@
+10:55:30.427 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:55:30.432 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:55:30.433 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:55:30.450 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:55:30.450 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:55:30.481 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:55:30.520 [main] INFO  TestCases.TC_Login - **** Starting Test Case
+10:55:38.954 [main] INFO  TestCases.TC_Login - *****Finish Test Case ****
+10:55:38.957 [main] INFO  TestCases.TC_Login - **** Starting Test Case
+10:55:51.587 [main] INFO  TestCases.TC_Login - **** Starting Test Case
+10:56:04.197 [main] INFO  TestCases.TC_Login - **** Starting Test Case
+10:56:12.413 [main] INFO  TestCases.TC_Login - *****Finish Test Case ****
+17:13:48.885 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\eclipse-workspace\DILApplication\CreatePractitioner.xml"
+17:13:49.385 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\DILApplication\CreatePractitioner.xml
+
+17:17:22.769 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\eclipse-workspace\DILApplication\CreatePractitioner.xml"
+17:17:23.061 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\DILApplication\CreatePractitioner.xml
+
+17:18:44.391 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\eclipse-workspace\DILApplication\CreatePractitioner.xml"
+17:18:44.676 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\DILApplication\CreatePractitioner.xml
+
+17:20:43.952 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\eclipse-workspace\DILApplication\CreatePractitioner.xml"
+17:20:44.312 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\DILApplication\CreatePractitioner.xml
+
+17:22:00.084 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\eclipse-workspace\DILApplication\CreatePractitioner.xml"
+17:22:00.357 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\DILApplication\CreatePractitioner.xml
+
+17:23:01.534 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\eclipse-workspace\DILApplication\CreatePractitioner.xml"
+17:23:01.831 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\DILApplication\CreatePractitioner.xml
+
+17:24:46.414 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\eclipse-workspace\DILApplication\CreatePractitioner.xml"
+17:24:46.678 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\DILApplication\CreatePractitioner.xml
+
+17:28:16.608 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\eclipse-workspace\DILApplication\CreatePractitioner.xml"
+17:28:17.060 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\DILApplication\CreatePractitioner.xml
+
+12:00:27.144 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\eclipse-workspace\DILApplication\CreateAdmin.xml"
+12:00:27.438 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\DILApplication\CreateAdmin.xml
+
+12:01:10.058 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\eclipse-workspace\DILApplication\CreateAdmin.xml"
+12:01:10.314 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\DILApplication\CreateAdmin.xml
+
+12:02:30.958 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\eclipse-workspace\DILApplication\CreateAdmin.xml"
+12:02:31.227 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\DILApplication\CreateAdmin.xml
+
+12:03:23.115 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\eclipse-workspace\DILApplication\CreateAdmin.xml"
+12:03:23.370 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\DILApplication\CreateAdmin.xml
+
+12:04:30.191 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\eclipse-workspace\DILApplication\CreateAdmin.xml"
+12:04:30.452 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\DILApplication\CreateAdmin.xml
+

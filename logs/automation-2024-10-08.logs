@@ -1,0 +1,73 @@
+17:15:31.473 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\eclipse-workspace\DILApplication\Suite.xml"
+17:15:32.146 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\DILApplication\Suite.xml
+
+17:15:38.370 [main] INFO  TestCases.TC_HccLogin - Test Case Started
+17:15:44.203 [main] INFO  TestCases.TC_HccLogin - Login Successfully
+17:15:53.214 [main] INFO  TestCases.TC_HccLogin - Mainu panel is lock
+17:29:18.559 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\eclipse-workspace\DILApplication\master.xml"
+17:29:18.966 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\DILApplication\master.xml
+
+17:29:24.468 [main] INFO  TestCases.TC_HccLogin - Test Case Started
+17:29:30.348 [main] INFO  TestCases.TC_HccLogin - Login Successfully
+17:29:39.360 [main] INFO  TestCases.TC_HccLogin - Mainu panel is lock
+17:32:34.851 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\eclipse-workspace\DILApplication\master.xml"
+17:32:35.333 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\DILApplication\master.xml
+
+17:32:40.390 [main] INFO  TestCases.TC_HccLogin - Test Case Started
+17:32:46.349 [main] INFO  TestCases.TC_HccLogin - Login Successfully
+17:32:55.364 [main] INFO  TestCases.TC_HccLogin - Mainu panel is lock
+17:33:01.834 [main] INFO  TestCases.TC_HccLogin - Test Case is failed
+17:33:01.834 [main] DEBUG TestCases.TC_HccLogin - Debug loggs
+13:59:22.965 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\eclipse-workspace\DILApplication\CreateInstaller.xml"
+13:59:23.496 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\DILApplication\CreateInstaller.xml
+
+15:01:58.214 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\eclipse-workspace\DILApplication\Suite.xml"
+15:01:58.891 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\DILApplication\Suite.xml
+
+15:02:08.244 [main] INFO  TestCases.TC_HccLogin - Test Case Started
+15:02:14.779 [main] INFO  TestCases.TC_HccLogin - Login Successfully
+15:02:23.795 [main] INFO  TestCases.TC_HccLogin - Mainu panel is lock
+17:31:58.236 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\eclipse-workspace\DILApplication\master.xml"
+17:31:58.725 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\DILApplication\master.xml
+
+17:32:06.031 [main] INFO  TestCases.TC_HccLogin - Test Case Started
+17:32:11.749 [main] INFO  TestCases.TC_HccLogin - Login Successfully
+17:32:20.791 [main] INFO  TestCases.TC_HccLogin - Mainu panel is lock
+11:14:57.548 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\eclipse-workspace\DILApplication\master.xml"
+11:14:57.908 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\DILApplication\master.xml
+
+11:15:05.743 [main] INFO  TestCases.TC_HccLogin - Test Case Started
+11:15:11.490 [main] INFO  TestCases.TC_HccLogin - Login Successfully
+11:15:20.500 [main] INFO  TestCases.TC_HccLogin - Mainu panel is lock
+11:21:47.718 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\eclipse-workspace\DILApplication\master.xml"
+11:21:47.973 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\DILApplication\master.xml
+
+11:21:57.476 [main] INFO  TestCases.TC_HccLogin - Test Case Started
+11:22:03.126 [main] INFO  TestCases.TC_HccLogin - Login Successfully
+11:22:12.136 [main] INFO  TestCases.TC_HccLogin - Mainu panel is lock
+11:28:46.282 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\eclipse-workspace\DILApplication\master.xml"
+11:28:46.522 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\DILApplication\master.xml
+
+11:28:52.837 [main] INFO  TestCases.TC_HccLogin - Test Case Started
+11:28:58.511 [main] INFO  TestCases.TC_HccLogin - Login Successfully
+11:29:07.525 [main] INFO  TestCases.TC_HccLogin - Mainu panel is lock
+11:32:55.963 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\eclipse-workspace\DILApplication\master.xml"
+11:32:56.206 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\DILApplication\master.xml
+
+11:33:01.789 [main] INFO  TestCases.TC_HccLogin - Test Case Started
+11:33:07.554 [main] INFO  TestCases.TC_HccLogin - Login Successfully
+11:33:16.562 [main] INFO  TestCases.TC_HccLogin - Mainu panel is lock
+11:33:38.589 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\eclipse-workspace\DILApplication\master.xml"
+11:33:38.833 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\DILApplication\master.xml
+
